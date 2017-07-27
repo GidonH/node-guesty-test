@@ -1,0 +1,14 @@
+{
+  "name": "guesty",
+  "version": "1.0.0",
+  "description": "guesty homeTest gidon handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gidon handler",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
