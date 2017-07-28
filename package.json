@@ -9,6 +9,8 @@
   "author": "gidon handler",
   "license": "ISC",
   "dependencies": {
+    "json-2-csv": "^2.1.1",
+    "nodemailer": "^4.0.1",
     "twit": "^2.2.9"
   }
 }
